@@ -1,0 +1,11 @@
+{
+  "Nickname": "Crossbow Damage Multiplier",
+  "Visibility": "Visible",
+  "OneLineDescription": "Multiplies all crossbow damage weapons. Dynamically searches for them so it should be compatible with all mods.",
+  "LongDescription": "Multiplies all crossbow damage weapons. Dynamically searches for them so it should be compatible with all mods. These damn crossbows take too long to reload for me to be okay with them having such bad damage.",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [],
+  "TargetedReleases": [
+    "SkyrimSE"
+  ]
+}
